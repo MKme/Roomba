@@ -13,7 +13,7 @@ Youtube : http://www.youtube.com/mkmeorg Website, Forum and store are at http://
 | LED +  | 5V |
 
 <p align="center">
-  <img src="https://github.com/MKme/OpenCast/blob/master/Pics/CURA%20Preview.PNG" width="700"/>
+  <img src="https://github.com/MKme/Roomba/blob/master/Pic/IMG_1418.JPG" width="700"/>
 </p>
 
 ### Parts needed
