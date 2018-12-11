@@ -12,6 +12,9 @@ Youtube : http://www.youtube.com/mkmeorg Website, Forum and store are at http://
 | LED - | D3 Via resistor  |
 | LED +  | 5V |
 
+<p align="center">
+  <img src="https://github.com/MKme/OpenCast/blob/master/Pics/CURA%20Preview.PNG" width="700"/>
+</p>
 
 ### Parts needed
 
