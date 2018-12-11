@@ -13,7 +13,11 @@ Romba Virtual Wall and Any Other Mods I figure Out.
 
 
 ### Parts needed
+
 Arduino NANAO https://amzn.to/2EaMzZI
+
 IR LED  https://amzn.to/2QOqUgE
+
 Resistor https://amzn.to/2EhIbsf
+
 
