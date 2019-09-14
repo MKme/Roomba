@@ -4,7 +4,6 @@ Youtube : http://www.youtube.com/mkmeorg Website, Forum and store are at http://
 
 Full video here:
 https://www.youtube.com/watch?v=aEn5C83Qoro&lc=Ugwwg79JqSoSPCniKmR4AaABAg
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aEn5C83Qoro" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Handy DIY Roomba Virtual Wall with Arduino Nano
 
