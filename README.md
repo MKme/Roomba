@@ -11,6 +11,9 @@ Chat: <a href="https://discord.gg/j9S4Fgv">Discord</a></b>!
 
 # Roomba
 Romba Virtual Wall and Any Other Mods I figure Out.
+
+Buy a kit here: http://store.mkme.org/?product=diy-roomba-virtual-wall-kit
+
 Youtube : http://www.youtube.com/mkmeorg Website, Forum and store are at http://mkme.org
 
 Full video here:
@@ -31,6 +34,9 @@ https://www.youtube.com/watch?v=aEn5C83Qoro&lc=Ugwwg79JqSoSPCniKmR4AaABAg
 </p>
 
 ### Parts needed
+
+Buy a DIY kit with all parts & Enclosure: http://store.mkme.org/?product=diy-roomba-virtual-wall-kit
+
 
 Arduino NANO https://amzn.to/2EaMzZI
 
