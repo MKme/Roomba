@@ -14,7 +14,7 @@ Romba Virtual Wall and Any Other Mods I figure Out.
 
 Buy a kit here: http://store.mkme.org/?product=diy-roomba-virtual-wall-kit
 
-Youtube : http://www.youtube.com/mkmeorg Website, Forum and store are at http://mkme.org
+
 
 Full video here:
 https://www.youtube.com/watch?v=aEn5C83Qoro&lc=Ugwwg79JqSoSPCniKmR4AaABAg
@@ -48,3 +48,5 @@ Resistor https://amzn.to/2EhIbsf
 Roomba Dev info: https://cdn-shop.adafruit.com/datasheets/create_2_Open_Interface_Spec.pdf
 
 Add Distance Sensor: https://create.arduino.cc/projecthub/ssbaker/making-roomba-smarter-800-series-40c5e2?ref=platform&ref_id=424_recent___&offset=11
+
+Youtube : http://www.youtube.com/mkmeorg Website, Forum and store are at http://mkme.org
