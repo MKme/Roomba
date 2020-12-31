@@ -21,12 +21,12 @@ https://www.youtube.com/watch?v=aEn5C83Qoro&lc=Ugwwg79JqSoSPCniKmR4AaABAg
 
 ### Handy DIY Roomba Virtual Wall with Arduino Nano
 
- IR LED with it's positive leg connected via a current-limiting resistor(220 Ohm or similar)  to the +5v, and it's negative leg to Pin3 (hardcoded via library)
+ IR LED with its positive (longer) leg connected via a current-limiting resistor (220 Ohm or similar)  to the +5v, and its negative leg to pin 3 (hardcoded via library)
  Blocks openings of up to 10 feet, keeping Roomba in the rooms you want cleaned and out of the ones you don’t. Halo Mode creates a 4-foot diameter keep out zone around items you want to protect. Compatible with Roomba 500, 600, 700, 800, 900, e, i and s Series Robots.
  ### Wiring to Arduino Nano
 | Pin On LED| Pin on NANO |
 | ---------- |----------------|
-| LED - | D3 Via resistor  |
+| LED - | D3 via resistor  |
 | LED +  | 5V |
 
 <p align="center">
@@ -40,7 +40,7 @@ Buy a DIY kit with all parts & Enclosure: http://store.mkme.org/?product=diy-roo
 
 Arduino NANO https://amzn.to/2EaMzZI
 
-IR LED  https://amzn.to/2QOqUgE
+IR LED https://amzn.to/2QOqUgE
 
 Resistor https://amzn.to/2EhIbsf
 
@@ -49,4 +49,6 @@ Roomba Dev info: https://cdn-shop.adafruit.com/datasheets/create_2_Open_Interfac
 
 Add Distance Sensor: https://create.arduino.cc/projecthub/ssbaker/making-roomba-smarter-800-series-40c5e2?ref=platform&ref_id=424_recent___&offset=11
 
-Youtube : http://www.youtube.com/mkmeorg Website, Forum and store are at http://mkme.org
+YouTube: http://www.youtube.com/mkmeorg
+
+Website, Forum and store are at http://mkme.org
