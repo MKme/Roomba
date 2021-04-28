@@ -1,12 +1,15 @@
 <p align="center">
 <b>Roomba DIY Virtual Wall</b><br>
 Open Source<br><br>
-<br>?? <a href="https://twitter.com/mkmeorg">Twitter</a>
-| ?? <a href="https://www.youtube.com/mkmeorg">YouTube</a>
-| ?? <a href="http://www.mkme.org">mkme.org</a><br>
+<p align="center">
+
 <br>
-Support this project and become a patron on <a href="https://www.patreon.com/EricWilliam">Patreon</a>.<br>
-Chat: <a href="https://discord.gg/j9S4Fgv">Discord</a></b>!
+🐦 <a href="https://twitter.com/mkmeorg">Twitter</a>
+| 📺 <a href="https://www.youtube.com/mkmeorg">YouTube</a>
+| 🌍 <a href="http://www.mkme.org">mkme.org</a><br>
+Support this project and become a patron on <a href="http://mkme.org/patreon">Eric's Patreon</a>.<br>
+Website, Forum and store are at http://mkme.org <br>
+Chat with Me: <a href="https://discord.gg/j9S4Fgv">Discord</a></b>
 </p>
 
 # Roomba
