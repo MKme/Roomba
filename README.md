@@ -24,9 +24,9 @@ https://www.youtube.com/watch?v=aEn5C83Qoro&lc=Ugwwg79JqSoSPCniKmR4AaABAg
 
 ### Handy DIY Roomba Virtual Wall with Arduino Nano
 
- * IR LED with its positive (longer) leg connected via a current-limiting resistor (220 Ohm or similar)  to the +5v, and its negative leg to pin 3 (hardcoded via library)
+ * IR LED with its positive (longer) leg to the +5v, and its negative leg connected via a current-limiting resistor (220 Ohm or similar) to pin 3 (hardcoded via library)
  * Blocks openings of up to 10 feet, keeping Roomba in the rooms you want cleaned and out of the ones you don’t.
-* Compatible with Roomba 500, 600, 700, 800, 900, e, i and s Series Robots.
+ * Compatible with Roomba 500, 600, 700, 800, 900, e, i and s Series Robots.
  ### Wiring to Arduino Nano
 | Pin On LED| Pin on NANO |
 | ---------- |----------------|
