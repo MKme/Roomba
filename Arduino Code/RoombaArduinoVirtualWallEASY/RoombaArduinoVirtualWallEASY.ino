@@ -25,6 +25,12 @@ void setup()
 
 void loop()
 {
+  //These values should work for pre i models of roomba
   irsend.mark(1000);
   irsend.space(1000);
+  
+  //For "i" models (i3, i7 etc) use the following
+  //irsend.mark(500);
+  //irsend.space(7500);
+  
 }
