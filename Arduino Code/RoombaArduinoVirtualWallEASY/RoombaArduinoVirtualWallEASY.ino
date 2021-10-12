@@ -16,15 +16,16 @@ Resistor https://amzn.to/2EhIbsf
 #include <IRremote.h>
 
 // Initiate IRremote on Pin 3.
-IRsend irsend;
+//IRsend irsend(3);
 
 void setup()
 {
-  irsend.enableIROut(38);//Lib function
+  IrSender.begin(3, false);
+  IrSender.enableIROut(38);
 }
 
 void loop()
 {
-  irsend.mark(1000);
-  irsend.space(1000);
+  IrSender.mark(1000);
+  IrSender.space(1000);
 }
